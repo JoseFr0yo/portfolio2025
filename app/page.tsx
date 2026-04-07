@@ -122,8 +122,7 @@ export default function Portfolio() {
             <div className="order-1 md:order-2 space-y-6">
               <div className="text-gray-300 space-y-4 text-lg leading-relaxed">
                 <p>
-                  I'm a passionate software engineer and recent graduate with a Bachelor of Science in Information
-                  Technology from Fisher College, specializing in Software Engineering. I have hands-on experience
+                  I'm a passionate software engineer currently pursuing a Masters degree in Software Development at Boston University. I have hands-on experience
                   building robust back-end services and working with modern development technologies.
                 </p>
                 <p>
